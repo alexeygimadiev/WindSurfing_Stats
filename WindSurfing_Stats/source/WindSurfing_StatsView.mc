@@ -3,7 +3,7 @@ using Toybox.Graphics;
 
 class WindSurfing_StatsView extends WatchUi.DataField {
 
-    hidden var mValue = "v0.5 20210805";	
+    hidden var mValue = "v0.6 20211001";	
     hidden var label = "No GPS signal";
     
 	hidden var timerRunning = false;   // did the user press the start button?
@@ -97,8 +97,16 @@ class WindSurfing_StatsView extends WatchUi.DataField {
     	if (lat2 == null){return 0;}
     	if (lon1 == null){return 0;}
     	if (lon2 == null){return 0;}
+    	if (lat1 > 3.1415) {return 0;}
+    	if (lon1 > 3.1415) {return 0;}
+    	if (lat2 > 3.1415) {return 0;}
+    	if (lon2 > 3.1415) {return 0;}
+    	if (lat1 < 0.000001) {return 0;}
+    	if (lon1 < 0.000001) {return 0;}
+    	if (lat2 < 0.000001) {return 0;}
+    	if (lon2 < 0.000001) {return 0;}
     	
-    	if (lat1*lon1*lat2*lon2 == 0) { return 0; }
+    	//if (lat1*lon1*lat2*lon2 == 0) { return 0; }
     	
 		var dy = (lat2-lat1);
 		var dx = (lon2-lon1);
@@ -118,7 +126,12 @@ class WindSurfing_StatsView extends WatchUi.DataField {
 		var c = 2 * Math.atan(Math.sqrt(a)/ Math.sqrt(1-a));
 
 		var R = 6371000.00; // radius of earth in meters
+		if (c > 0.05) {
+			System.println( "R * c = " + R * c);
+			System.println("lat1 = " + lat1 + ", lon1 = " + lon1 + ", lat2 = " + lat2 + ", lon2 = " + lon2);
+		}
 		return R * c;
+		
 	}
 	
     
@@ -127,7 +140,7 @@ class WindSurfing_StatsView extends WatchUi.DataField {
 		var lat, lon, latDegrees, lonDegrees; 
 		var curSpeed;
 		
-//		if ((info.currentLocation != null) && (info.currentLocation.toDegrees()[0].toFloat() < 179))
+//		if ((info.currentLocation != null) && (info.currentLocation.toDegrees()[0].toDouble() < 179))
 //		{
 			
 			
@@ -139,14 +152,13 @@ class WindSurfing_StatsView extends WatchUi.DataField {
 //			System.println("Insiderun: " + InsideRun);
 //			System.println("MinSpeedInAlphaRun: " + MinSpeedInAlphaRun);			
 //			System.println("currentSpeed: " + info.currentSpeed);
-			if ((info.currentLocation != null) && (info.currentLocation.toDegrees()[0].toFloat() < 179))
+			if (info.currentLocation != null) 
 			{
-				lat = info.currentLocation.toRadians()[0].toFloat();
-				lon = info.currentLocation.toRadians()[1].toFloat();
-				latDegrees = info.currentLocation.toDegrees()[0].toFloat() ;
-				lonDegrees =  info.currentLocation.toDegrees()[1].toFloat() ;
+				lat = info.currentLocation.toRadians()[0].toDouble();
+				lon = info.currentLocation.toRadians()[1].toDouble();
+				latDegrees = info.currentLocation.toDegrees()[0].toDouble() ;
+				lonDegrees =  info.currentLocation.toDegrees()[1].toDouble() ;
 				curSpeed = info.currentSpeed;
-				
 			}
 			else
 			{
@@ -206,17 +218,21 @@ class WindSurfing_StatsView extends WatchUi.DataField {
 				 cur10 = 3.6 * Geodetic_distance_rad(Lats10[i10],Lons10[i10], Lats10[j10], Lons10[j10]) / tickerdiff ;
 				 if (cur10>b10) {b10 = cur10;}
 				 
-				/*
+				
 				 System.println("cur10 = " + cur10.format("%.0f") 
 				 			+ " b10 = " + b10.format("%.0f") 
-				 			+ " ticker = " + tickerdiff.format("%.0f")
-				 			+ " Inside10Run = " + Inside10Run.format("%.0f")
-				 			+ " Lat[i10] = " + Lats10[i10]
-				 			+ " Lon[i10] = " + Lons10[i10]
-				 			+ " Lat[j10] = " + Lats10[j10]
-				 			+ " Lon[j10] = " + Lons10[j10]
+				 			+ " ticker = " + ticker
+				 			//+ "
+				 			//+ " i10 = " + i10.format("%.0f")
+				 			//+ " j10 = " + j10.format("%.0f")
+				 			+ " tickerdiff = " + tickerdiff.format("%.0f")
+				 			//+ " Inside10Run = " + Inside10Run.format("%.0f")
+				 			+ " Lats10[i10] = " + Lats10[i10]
+				 			+ " Lons10[i10] = " + Lons10[i10]
+				 			+ " Lats10[j10] = " + Lats10[j10]
+				 			+ " Lons10[j10] = " + Lons10[j10]
 				 );		
-				 */
+				
 				if (Inside10Run == 0) { //run not started
 					if (curSpeed > 3) {Inside10Run = 1;} //start run
 					else {b10 = 0;
@@ -257,11 +273,13 @@ class WindSurfing_StatsView extends WatchUi.DataField {
 	
  			while
  			(
-				 (Lats.size()> 180) 
+				 (Lats.size()> 110) 
 			 ||
 			 	 (CurrentDist500 + dDist > 500) )
  			 {
+ 			 	System.println("Lats.size() = " + Lats.size() + " Lons.size() = " + Lons.size() + " CurrentDist500 = " + CurrentDist500);
 				CurrentDist500 -= Geodetic_distance_rad(Lats[0], Lons[0], Lats[1], Lons[1]);
+				
 				if (CurrentDist500<0) {CurrentDist500 = 0;}
 				Lats = Lats.slice(1,null) ;
 				Lons = Lons.slice(1,null) ;

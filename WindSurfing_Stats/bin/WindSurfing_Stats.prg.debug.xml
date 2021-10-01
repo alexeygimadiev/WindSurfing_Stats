@@ -10,14 +10,14 @@
         <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsBackground.mc" id="5" lineNum="21" pc="268435517" symbol="draw"/>
         <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsBackground.mc" id="5" lineNum="22" pc="268435521" symbol="draw"/>
         <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsBackground.mc" id="5" lineNum="23" pc="268435553" symbol="draw"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsBackground.mc" id="5" lineNum="5" pc="268442152" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsBackground.mc" id="5" lineNum="5" pc="268442618" symbol="&lt;init&gt;"/>
         <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsApp.mc" id="7" lineNum="5" pc="268435566" symbol="initialize"/>
         <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsApp.mc" id="7" lineNum="6" pc="268435570" symbol="initialize"/>
         <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsApp.mc" id="8" lineNum="10" pc="268435589" symbol="onStart"/>
         <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsApp.mc" id="9" lineNum="14" pc="268435594" symbol="onStop"/>
         <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsApp.mc" id="10" lineNum="18" pc="268435599" symbol="getInitialView"/>
         <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsApp.mc" id="10" lineNum="19" pc="268435603" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsApp.mc" id="10" lineNum="3" pc="268442313" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsApp.mc" id="10" lineNum="3" pc="268442779" symbol="&lt;init&gt;"/>
         <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="12" lineNum="50" pc="268435641" symbol="initialize"/>
         <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="12" lineNum="51" pc="268435645" symbol="initialize"/>
         <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="13" lineNum="57" pc="268435664" symbol="onLayout"/>
@@ -46,228 +46,247 @@
         <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="98" pc="268436197" symbol="Geodetic_distance_rad"/>
         <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="99" pc="268436206" symbol="Geodetic_distance_rad"/>
         <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="99" pc="268436213" symbol="Geodetic_distance_rad"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="101" pc="268436222" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="100" pc="268436222" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="100" pc="268436233" symbol="Geodetic_distance_rad"/>
         <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="101" pc="268436242" symbol="Geodetic_distance_rad"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="103" pc="268436251" symbol="Geodetic_distance_rad"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="104" pc="268436258" symbol="Geodetic_distance_rad"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="106" pc="268436265" symbol="Geodetic_distance_rad"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="107" pc="268436292" symbol="Geodetic_distance_rad"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="109" pc="268436299" symbol="Geodetic_distance_rad"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="110" pc="268436326" symbol="Geodetic_distance_rad"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="112" pc="268436333" symbol="Geodetic_distance_rad"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="114" pc="268436380" symbol="Geodetic_distance_rad"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="115" pc="268436391" symbol="Geodetic_distance_rad"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="118" pc="268436400" symbol="Geodetic_distance_rad"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="120" pc="268436470" symbol="Geodetic_distance_rad"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="121" pc="268436477" symbol="Geodetic_distance_rad"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="126" pc="268436484" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="127" pc="268436488" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="128" pc="268436488" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="142" pc="268436488" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="144" pc="268436545" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="145" pc="268436579" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="146" pc="268436613" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="147" pc="268436647" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="148" pc="268436681" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="153" pc="268436694" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="154" pc="268436701" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="155" pc="268436708" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="156" pc="268436715" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="157" pc="268436722" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="159" pc="268436729" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="159" pc="268436736" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="183" pc="268436746" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="183" pc="268436757" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="183" pc="268436779" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="185" pc="268436780" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="186" pc="268436787" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="187" pc="268436794" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="187" pc="268436811" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="189" pc="268436821" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="192" pc="268436828" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="193" pc="268436844" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="193" pc="268436861" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="196" pc="268436871" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="196" pc="268436899" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="197" pc="268436927" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="197" pc="268436946" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="197" pc="268436965" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="200" pc="268436990" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="201" pc="268436990" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="203" pc="268436997" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="204" pc="268437019" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="206" pc="268437059" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="207" pc="268437149" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="207" pc="268437163" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="220" pc="268437176" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="221" pc="268437193" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="221" pc="268437204" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="222" pc="268437220" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="223" pc="268437233" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="223" pc="268437248" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="223" pc="268437263" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="223" pc="268437278" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="223" pc="268437293" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="223" pc="268437308" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="224" pc="268437323" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="224" pc="268437338" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="224" pc="268437353" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="224" pc="268437368" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="224" pc="268437383" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="228" pc="268437401" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="229" pc="268437418" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="230" pc="268437458" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="232" pc="268437471" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="232" pc="268437491" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="232" pc="268437507" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="232" pc="268437523" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="232" pc="268437539" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="232" pc="268437555" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="233" pc="268437574" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="233" pc="268437594" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="233" pc="268437610" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="233" pc="268437626" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="233" pc="268437642" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="234" pc="268437661" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="234" pc="268437681" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="234" pc="268437697" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="234" pc="268437713" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="235" pc="268437732" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="235" pc="268437752" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="235" pc="268437768" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="236" pc="268437787" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="236" pc="268437807" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="237" pc="268437826" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="238" pc="268437839" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="238" pc="268437854" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="238" pc="268437869" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="238" pc="268437884" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="238" pc="268437899" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="238" pc="268437914" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="239" pc="268437929" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="239" pc="268437944" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="239" pc="268437959" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="239" pc="268437974" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="239" pc="268437989" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="247" pc="268438010" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="248" pc="268438017" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="248" pc="268438037" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="249" pc="268438057" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="253" pc="268438077" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="253" pc="268438103" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="258" pc="268438187" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="264" pc="268438236" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="265" pc="268438317" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="265" pc="268438334" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="266" pc="268438350" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="267" pc="268438381" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="268" pc="268438412" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="271" pc="268438446" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="273" pc="268438462" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="277" pc="268438573" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="279" pc="268438644" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="280" pc="268438657" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="280" pc="268438687" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="280" pc="268438710" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="284" pc="268438745" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="285" pc="268438762" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="287" pc="268438784" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="289" pc="268438803" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="291" pc="268438849" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="291" pc="268438869" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="291" pc="268438885" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="291" pc="268438901" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="291" pc="268438917" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="291" pc="268438933" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="292" pc="268438952" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="292" pc="268438972" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="292" pc="268438988" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="292" pc="268439004" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="292" pc="268439020" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="293" pc="268439039" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="293" pc="268439059" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="293" pc="268439075" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="293" pc="268439091" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="294" pc="268439110" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="294" pc="268439130" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="294" pc="268439146" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="295" pc="268439165" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="295" pc="268439185" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="298" pc="268439204" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="299" pc="268439226" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="302" pc="268439246" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="303" pc="268439327" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="304" pc="268439358" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="305" pc="268439389" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="313" pc="268439426" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="314" pc="268439440" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="315" pc="268439453" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="315" pc="268439470" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="316" pc="268439524" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="317" pc="268439673" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="318" pc="268439693" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="319" pc="268439706" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="320" pc="268439855" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="321" pc="268439875" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="322" pc="268439930" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="323" pc="268439963" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="324" pc="268439974" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="325" pc="268439987" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="329" pc="268440020" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="330" pc="268440033" symbol="compute"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="16" lineNum="338" pc="268440047" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="16" lineNum="340" pc="268440051" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="16" lineNum="343" pc="268440094" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="16" lineNum="344" pc="268440118" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="16" lineNum="345" pc="268440145" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="16" lineNum="347" pc="268440172" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="16" lineNum="349" pc="268440196" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="16" lineNum="352" pc="268440216" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="16" lineNum="354" pc="268440256" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="17" lineNum="358" pc="268440277" symbol="onTimerStart"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="17" lineNum="359" pc="268440281" symbol="onTimerStart"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="17" lineNum="360" pc="268440293" symbol="onTimerStart"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="17" lineNum="362" pc="268440318" symbol="onTimerStart"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="18" lineNum="367" pc="268440332" symbol="onTimerStop"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="18" lineNum="368" pc="268440336" symbol="onTimerStop"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="18" lineNum="369" pc="268440346" symbol="onTimerStop"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="19" lineNum="373" pc="268440360" symbol="onTimerReset"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="19" lineNum="4" pc="268442171" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="19" lineNum="16" pc="268442189" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="19" lineNum="17" pc="268442203" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="19" lineNum="18" pc="268442217" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="19" lineNum="19" pc="268442231" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="19" lineNum="20" pc="268442245" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="19" lineNum="21" pc="268442259" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="19" lineNum="22" pc="268442273" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="25" lineNum="17" pc="268440365" symbol="MainLayout"/>
-        <entry filename="Rez" id="25" lineNum="19" pc="268440377" symbol="MainLayout"/>
-        <entry filename="Rez" id="25" lineNum="20" pc="268440390" symbol="MainLayout"/>
-        <entry filename="Rez" id="25" lineNum="22" pc="268440403" symbol="MainLayout"/>
-        <entry filename="Rez" id="25" lineNum="23" pc="268440427" symbol="MainLayout"/>
-        <entry filename="Rez" id="25" lineNum="24" pc="268440590" symbol="MainLayout"/>
-        <entry filename="Rez" id="25" lineNum="26" pc="268440753" symbol="MainLayout"/>
-        <entry filename="Rez" id="26" lineNum="35" pc="268440791" symbol="TopLeftLayout"/>
-        <entry filename="Rez" id="26" lineNum="38" pc="268440803" symbol="TopLeftLayout"/>
-        <entry filename="Rez" id="26" lineNum="39" pc="268440827" symbol="TopLeftLayout"/>
-        <entry filename="Rez" id="26" lineNum="40" pc="268440960" symbol="TopLeftLayout"/>
-        <entry filename="Rez" id="26" lineNum="42" pc="268441093" symbol="TopLeftLayout"/>
-        <entry filename="Rez" id="27" lineNum="51" pc="268441131" symbol="TopRightLayout"/>
-        <entry filename="Rez" id="27" lineNum="54" pc="268441143" symbol="TopRightLayout"/>
-        <entry filename="Rez" id="27" lineNum="55" pc="268441167" symbol="TopRightLayout"/>
-        <entry filename="Rez" id="27" lineNum="56" pc="268441300" symbol="TopRightLayout"/>
-        <entry filename="Rez" id="27" lineNum="58" pc="268441433" symbol="TopRightLayout"/>
-        <entry filename="Rez" id="28" lineNum="67" pc="268441471" symbol="BottomLeftLayout"/>
-        <entry filename="Rez" id="28" lineNum="70" pc="268441483" symbol="BottomLeftLayout"/>
-        <entry filename="Rez" id="28" lineNum="71" pc="268441507" symbol="BottomLeftLayout"/>
-        <entry filename="Rez" id="28" lineNum="72" pc="268441640" symbol="BottomLeftLayout"/>
-        <entry filename="Rez" id="28" lineNum="74" pc="268441773" symbol="BottomLeftLayout"/>
-        <entry filename="Rez" id="29" lineNum="83" pc="268441811" symbol="BottomRightLayout"/>
-        <entry filename="Rez" id="29" lineNum="86" pc="268441823" symbol="BottomRightLayout"/>
-        <entry filename="Rez" id="29" lineNum="87" pc="268441847" symbol="BottomRightLayout"/>
-        <entry filename="Rez" id="29" lineNum="88" pc="268441980" symbol="BottomRightLayout"/>
-        <entry filename="Rez" id="29" lineNum="90" pc="268442113" symbol="BottomRightLayout"/>
-        <entry filename="Rez" id="31" lineNum="1" pc="268442288" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="101" pc="268436253" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="102" pc="268436262" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="102" pc="268436273" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="103" pc="268436282" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="103" pc="268436293" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="104" pc="268436302" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="104" pc="268436313" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="105" pc="268436322" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="105" pc="268436333" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="106" pc="268436342" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="106" pc="268436353" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="107" pc="268436362" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="107" pc="268436373" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="111" pc="268436382" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="112" pc="268436389" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="114" pc="268436396" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="115" pc="268436423" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="117" pc="268436430" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="118" pc="268436457" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="120" pc="268436464" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="122" pc="268436511" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="123" pc="268436522" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="126" pc="268436531" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="128" pc="268436601" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="129" pc="268436608" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="130" pc="268436619" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="131" pc="268436648" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="14" lineNum="133" pc="268436704" symbol="Geodetic_distance_rad"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="139" pc="268436711" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="140" pc="268436715" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="141" pc="268436715" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="155" pc="268436715" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="157" pc="268436728" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="158" pc="268436762" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="159" pc="268436796" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="160" pc="268436830" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="161" pc="268436864" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="165" pc="268436877" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="166" pc="268436884" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="167" pc="268436891" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="168" pc="268436898" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="169" pc="268436905" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="171" pc="268436912" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="171" pc="268436919" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="195" pc="268436929" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="195" pc="268436940" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="195" pc="268436962" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="197" pc="268436963" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="198" pc="268436970" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="199" pc="268436977" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="199" pc="268436994" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="201" pc="268437004" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="204" pc="268437011" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="205" pc="268437027" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="205" pc="268437044" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="208" pc="268437054" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="208" pc="268437082" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="209" pc="268437110" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="209" pc="268437129" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="209" pc="268437148" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="212" pc="268437173" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="213" pc="268437173" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="215" pc="268437180" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="216" pc="268437202" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="218" pc="268437242" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="219" pc="268437332" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="219" pc="268437346" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="222" pc="268437359" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="236" pc="268437562" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="237" pc="268437579" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="237" pc="268437590" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="238" pc="268437606" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="239" pc="268437619" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="239" pc="268437634" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="239" pc="268437649" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="239" pc="268437664" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="239" pc="268437679" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="239" pc="268437694" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="240" pc="268437709" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="240" pc="268437724" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="240" pc="268437739" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="240" pc="268437754" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="240" pc="268437769" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="244" pc="268437787" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="245" pc="268437804" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="246" pc="268437844" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="248" pc="268437857" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="248" pc="268437877" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="248" pc="268437893" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="248" pc="268437909" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="248" pc="268437925" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="248" pc="268437941" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="249" pc="268437960" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="249" pc="268437980" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="249" pc="268437996" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="249" pc="268438012" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="249" pc="268438028" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="250" pc="268438047" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="250" pc="268438067" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="250" pc="268438083" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="250" pc="268438099" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="251" pc="268438118" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="251" pc="268438138" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="251" pc="268438154" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="252" pc="268438173" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="252" pc="268438193" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="253" pc="268438212" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="254" pc="268438225" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="254" pc="268438240" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="254" pc="268438255" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="254" pc="268438270" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="254" pc="268438285" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="254" pc="268438300" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="255" pc="268438315" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="255" pc="268438330" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="255" pc="268438345" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="255" pc="268438360" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="255" pc="268438375" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="263" pc="268438396" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="264" pc="268438403" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="264" pc="268438423" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="265" pc="268438443" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="269" pc="268438463" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="269" pc="268438489" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="274" pc="268438573" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="280" pc="268438622" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="281" pc="268438702" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="283" pc="268438783" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="283" pc="268438800" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="284" pc="268438816" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="285" pc="268438847" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="286" pc="268438878" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="289" pc="268438912" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="291" pc="268438928" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="295" pc="268439039" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="297" pc="268439110" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="298" pc="268439123" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="298" pc="268439153" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="298" pc="268439176" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="302" pc="268439211" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="303" pc="268439228" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="305" pc="268439250" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="307" pc="268439269" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="309" pc="268439315" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="309" pc="268439335" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="309" pc="268439351" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="309" pc="268439367" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="309" pc="268439383" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="309" pc="268439399" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="310" pc="268439418" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="310" pc="268439438" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="310" pc="268439454" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="310" pc="268439470" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="310" pc="268439486" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="311" pc="268439505" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="311" pc="268439525" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="311" pc="268439541" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="311" pc="268439557" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="312" pc="268439576" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="312" pc="268439596" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="312" pc="268439612" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="313" pc="268439631" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="313" pc="268439651" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="316" pc="268439670" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="317" pc="268439692" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="320" pc="268439712" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="321" pc="268439793" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="322" pc="268439824" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="323" pc="268439855" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="331" pc="268439892" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="332" pc="268439906" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="333" pc="268439919" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="333" pc="268439936" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="334" pc="268439990" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="335" pc="268440139" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="336" pc="268440159" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="337" pc="268440172" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="338" pc="268440321" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="339" pc="268440341" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="340" pc="268440396" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="341" pc="268440429" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="342" pc="268440440" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="343" pc="268440453" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="347" pc="268440486" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="15" lineNum="348" pc="268440499" symbol="compute"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="16" lineNum="356" pc="268440513" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="16" lineNum="358" pc="268440517" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="16" lineNum="361" pc="268440560" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="16" lineNum="362" pc="268440584" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="16" lineNum="363" pc="268440611" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="16" lineNum="365" pc="268440638" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="16" lineNum="367" pc="268440662" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="16" lineNum="370" pc="268440682" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="16" lineNum="372" pc="268440722" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="17" lineNum="376" pc="268440743" symbol="onTimerStart"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="17" lineNum="377" pc="268440747" symbol="onTimerStart"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="17" lineNum="378" pc="268440759" symbol="onTimerStart"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="17" lineNum="380" pc="268440784" symbol="onTimerStart"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="18" lineNum="385" pc="268440798" symbol="onTimerStop"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="18" lineNum="386" pc="268440802" symbol="onTimerStop"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="18" lineNum="387" pc="268440812" symbol="onTimerStop"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="19" lineNum="391" pc="268440826" symbol="onTimerReset"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="19" lineNum="4" pc="268442637" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="19" lineNum="16" pc="268442655" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="19" lineNum="17" pc="268442669" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="19" lineNum="18" pc="268442683" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="19" lineNum="19" pc="268442697" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="19" lineNum="20" pc="268442711" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="19" lineNum="21" pc="268442725" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="19" lineNum="22" pc="268442739" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="25" lineNum="17" pc="268440831" symbol="MainLayout"/>
+        <entry filename="Rez" id="25" lineNum="19" pc="268440843" symbol="MainLayout"/>
+        <entry filename="Rez" id="25" lineNum="20" pc="268440856" symbol="MainLayout"/>
+        <entry filename="Rez" id="25" lineNum="22" pc="268440869" symbol="MainLayout"/>
+        <entry filename="Rez" id="25" lineNum="23" pc="268440893" symbol="MainLayout"/>
+        <entry filename="Rez" id="25" lineNum="24" pc="268441056" symbol="MainLayout"/>
+        <entry filename="Rez" id="25" lineNum="26" pc="268441219" symbol="MainLayout"/>
+        <entry filename="Rez" id="26" lineNum="35" pc="268441257" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="26" lineNum="38" pc="268441269" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="26" lineNum="39" pc="268441293" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="26" lineNum="40" pc="268441426" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="26" lineNum="42" pc="268441559" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="27" lineNum="51" pc="268441597" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="27" lineNum="54" pc="268441609" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="27" lineNum="55" pc="268441633" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="27" lineNum="56" pc="268441766" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="27" lineNum="58" pc="268441899" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="28" lineNum="67" pc="268441937" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="28" lineNum="70" pc="268441949" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="28" lineNum="71" pc="268441973" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="28" lineNum="72" pc="268442106" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="28" lineNum="74" pc="268442239" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="29" lineNum="83" pc="268442277" symbol="BottomRightLayout"/>
+        <entry filename="Rez" id="29" lineNum="86" pc="268442289" symbol="BottomRightLayout"/>
+        <entry filename="Rez" id="29" lineNum="87" pc="268442313" symbol="BottomRightLayout"/>
+        <entry filename="Rez" id="29" lineNum="88" pc="268442446" symbol="BottomRightLayout"/>
+        <entry filename="Rez" id="29" lineNum="90" pc="268442579" symbol="BottomRightLayout"/>
+        <entry filename="Rez" id="31" lineNum="1" pc="268442754" symbol="&lt;init&gt;"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388639" module="true" symbol="Graphics"/>
@@ -366,55 +385,55 @@
         <entry endPc="268436098" name="labelView" stackId="3" startPc="268435963"/>
         <entry endPc="268436153" name="obscurityFlags" stackId="2" startPc="268435668"/>
         <entry arg="true" endPc="268436154" name="dc" stackId="1" startPc="268435664"/>
-        <entry endPc="268436483" name="a" stackId="9" startPc="268436158"/>
-        <entry endPc="268436483" name="dy" stackId="5" startPc="268436158"/>
-        <entry endPc="268436483" name="dx" stackId="6" startPc="268436158"/>
-        <entry endPc="268436483" name="R" stackId="11" startPc="268436158"/>
-        <entry endPc="268436483" name="sy" stackId="7" startPc="268436158"/>
-        <entry endPc="268436483" name="c" stackId="10" startPc="268436158"/>
-        <entry endPc="268436483" name="sx" stackId="8" startPc="268436158"/>
-        <entry arg="true" endPc="268436484" name="lon2" stackId="4" startPc="268436154"/>
-        <entry arg="true" endPc="268436484" name="lon1" stackId="2" startPc="268436154"/>
-        <entry arg="true" endPc="268436484" name="lat2" stackId="3" startPc="268436154"/>
-        <entry arg="true" endPc="268436484" name="lat1" stackId="1" startPc="268436154"/>
-        <entry endPc="268438745" name="k" stackId="13" startPc="268438687"/>
-        <entry endPc="268440046" name="lon" stackId="3" startPc="268436488"/>
-        <entry endPc="268440046" name="tickerdiff" stackId="11" startPc="268436488"/>
-        <entry endPc="268440046" name="dDist" stackId="12" startPc="268436488"/>
-        <entry endPc="268440046" name="screenDelay" stackId="7" startPc="268436488"/>
-        <entry endPc="268440046" name="cur10" stackId="10" startPc="268436488"/>
-        <entry endPc="268440046" name="screensCount" stackId="8" startPc="268436488"/>
-        <entry endPc="268440046" name="latDegrees" stackId="4" startPc="268436488"/>
-        <entry endPc="268440046" name="lonDegrees" stackId="5" startPc="268436488"/>
-        <entry endPc="268440046" name="lat" stackId="2" startPc="268436488"/>
-        <entry endPc="268440046" name="curSpeed" stackId="6" startPc="268436488"/>
-        <entry endPc="268440046" name="timerSlot" stackId="9" startPc="268436488"/>
-        <entry arg="true" endPc="268440047" name="info" stackId="1" startPc="268436484"/>
-        <entry endPc="268440276" name="value" stackId="2" startPc="268440051"/>
-        <entry arg="true" endPc="268440277" name="dc" stackId="1" startPc="268440047"/>
-        <entry endPc="268440328" name="activityMonitorInfo" stackId="1" startPc="268440293"/>
-        <entry endPc="268440790" name="rez_cmp_local_text_value" stackId="6" startPc="268440377"/>
-        <entry endPc="268440790" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268440377"/>
-        <entry endPc="268440790" name="rez_cmp_local_custom_drawable_10108949138685856489" stackId="4" startPc="268440377"/>
-        <entry endPc="268440790" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268440377"/>
-        <entry endPc="268440790" name="rez_cmp_local_text_label" stackId="5" startPc="268440377"/>
-        <entry arg="true" endPc="268440791" name="dc" stackId="1" startPc="268440365"/>
-        <entry endPc="268441130" name="rez_cmp_local_text_value" stackId="4" startPc="268440803"/>
-        <entry endPc="268441130" name="rez_cmp_local_text_label" stackId="3" startPc="268440803"/>
-        <entry endPc="268441130" name="rez_cmp_local_custom_drawable_86651483114728592333" stackId="2" startPc="268440803"/>
-        <entry arg="true" endPc="268441131" name="dc" stackId="1" startPc="268440791"/>
-        <entry endPc="268441470" name="rez_cmp_local_text_value" stackId="4" startPc="268441143"/>
-        <entry endPc="268441470" name="rez_cmp_local_custom_drawable_15156282114024833463" stackId="2" startPc="268441143"/>
-        <entry endPc="268441470" name="rez_cmp_local_text_label" stackId="3" startPc="268441143"/>
-        <entry arg="true" endPc="268441471" name="dc" stackId="1" startPc="268441131"/>
-        <entry endPc="268441810" name="rez_cmp_local_text_value" stackId="4" startPc="268441483"/>
-        <entry endPc="268441810" name="rez_cmp_local_custom_drawable_37014129381606608514" stackId="2" startPc="268441483"/>
-        <entry endPc="268441810" name="rez_cmp_local_text_label" stackId="3" startPc="268441483"/>
-        <entry arg="true" endPc="268441811" name="dc" stackId="1" startPc="268441471"/>
-        <entry endPc="268442150" name="rez_cmp_local_text_value" stackId="4" startPc="268441823"/>
-        <entry endPc="268442150" name="rez_cmp_local_custom_drawable_11514735937487606941" stackId="2" startPc="268441823"/>
-        <entry endPc="268442150" name="rez_cmp_local_text_label" stackId="3" startPc="268441823"/>
-        <entry arg="true" endPc="268442151" name="dc" stackId="1" startPc="268441811"/>
+        <entry endPc="268436710" name="a" stackId="9" startPc="268436158"/>
+        <entry endPc="268436710" name="dy" stackId="5" startPc="268436158"/>
+        <entry endPc="268436710" name="dx" stackId="6" startPc="268436158"/>
+        <entry endPc="268436710" name="R" stackId="11" startPc="268436158"/>
+        <entry endPc="268436710" name="sy" stackId="7" startPc="268436158"/>
+        <entry endPc="268436710" name="c" stackId="10" startPc="268436158"/>
+        <entry endPc="268436710" name="sx" stackId="8" startPc="268436158"/>
+        <entry arg="true" endPc="268436711" name="lon2" stackId="4" startPc="268436154"/>
+        <entry arg="true" endPc="268436711" name="lon1" stackId="2" startPc="268436154"/>
+        <entry arg="true" endPc="268436711" name="lat2" stackId="3" startPc="268436154"/>
+        <entry arg="true" endPc="268436711" name="lat1" stackId="1" startPc="268436154"/>
+        <entry endPc="268439211" name="k" stackId="13" startPc="268439153"/>
+        <entry endPc="268440512" name="lon" stackId="3" startPc="268436715"/>
+        <entry endPc="268440512" name="tickerdiff" stackId="11" startPc="268436715"/>
+        <entry endPc="268440512" name="dDist" stackId="12" startPc="268436715"/>
+        <entry endPc="268440512" name="screenDelay" stackId="7" startPc="268436715"/>
+        <entry endPc="268440512" name="cur10" stackId="10" startPc="268436715"/>
+        <entry endPc="268440512" name="screensCount" stackId="8" startPc="268436715"/>
+        <entry endPc="268440512" name="latDegrees" stackId="4" startPc="268436715"/>
+        <entry endPc="268440512" name="lonDegrees" stackId="5" startPc="268436715"/>
+        <entry endPc="268440512" name="lat" stackId="2" startPc="268436715"/>
+        <entry endPc="268440512" name="curSpeed" stackId="6" startPc="268436715"/>
+        <entry endPc="268440512" name="timerSlot" stackId="9" startPc="268436715"/>
+        <entry arg="true" endPc="268440513" name="info" stackId="1" startPc="268436711"/>
+        <entry endPc="268440742" name="value" stackId="2" startPc="268440517"/>
+        <entry arg="true" endPc="268440743" name="dc" stackId="1" startPc="268440513"/>
+        <entry endPc="268440794" name="activityMonitorInfo" stackId="1" startPc="268440759"/>
+        <entry endPc="268441256" name="rez_cmp_local_text_value" stackId="6" startPc="268440843"/>
+        <entry endPc="268441256" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268440843"/>
+        <entry endPc="268441256" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268440843"/>
+        <entry endPc="268441256" name="rez_cmp_local_text_label" stackId="5" startPc="268440843"/>
+        <entry endPc="268441256" name="rez_cmp_local_custom_drawable_10784026367384532816" stackId="4" startPc="268440843"/>
+        <entry arg="true" endPc="268441257" name="dc" stackId="1" startPc="268440831"/>
+        <entry endPc="268441596" name="rez_cmp_local_text_value" stackId="4" startPc="268441269"/>
+        <entry endPc="268441596" name="rez_cmp_local_custom_drawable_70914726080526301547" stackId="2" startPc="268441269"/>
+        <entry endPc="268441596" name="rez_cmp_local_text_label" stackId="3" startPc="268441269"/>
+        <entry arg="true" endPc="268441597" name="dc" stackId="1" startPc="268441257"/>
+        <entry endPc="268441936" name="rez_cmp_local_text_value" stackId="4" startPc="268441609"/>
+        <entry endPc="268441936" name="rez_cmp_local_custom_drawable_19600634719950028293" stackId="2" startPc="268441609"/>
+        <entry endPc="268441936" name="rez_cmp_local_text_label" stackId="3" startPc="268441609"/>
+        <entry arg="true" endPc="268441937" name="dc" stackId="1" startPc="268441597"/>
+        <entry endPc="268442276" name="rez_cmp_local_text_value" stackId="4" startPc="268441949"/>
+        <entry endPc="268442276" name="rez_cmp_local_custom_drawable_14445770641181391612" stackId="2" startPc="268441949"/>
+        <entry endPc="268442276" name="rez_cmp_local_text_label" stackId="3" startPc="268441949"/>
+        <entry arg="true" endPc="268442277" name="dc" stackId="1" startPc="268441937"/>
+        <entry endPc="268442616" name="rez_cmp_local_text_value" stackId="4" startPc="268442289"/>
+        <entry endPc="268442616" name="rez_cmp_local_text_label" stackId="3" startPc="268442289"/>
+        <entry endPc="268442616" name="rez_cmp_local_custom_drawable_71556896510887941522" stackId="2" startPc="268442289"/>
+        <entry arg="true" endPc="268442617" name="dc" stackId="1" startPc="268442277"/>
     </localVars>
     <annotations>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
