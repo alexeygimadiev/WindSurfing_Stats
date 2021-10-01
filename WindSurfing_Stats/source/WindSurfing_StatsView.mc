@@ -3,8 +3,8 @@ using Toybox.Graphics;
 
 class WindSurfing_StatsView extends WatchUi.DataField {
 
-    hidden var mValue;
-    hidden var label = "Total";
+    hidden var mValue = "v0.5 20210805";	
+    hidden var label = "No GPS signal";
     
 	hidden var timerRunning = false;   // did the user press the start button?
 
@@ -18,6 +18,8 @@ class WindSurfing_StatsView extends WatchUi.DataField {
     hidden var Speeds = new[0];
     hidden var Lats10 = new[11]; // 11 points for 10 secs
     hidden var Lons10 = new[11];
+    hidden var Ticker10 = new[11];
+    hidden var Speeds10 = new[11];
     hidden var chkDist = 0;
     hidden var dLimit = 1000;
     hidden var i10 = 0, j10 = 9; 
@@ -47,7 +49,7 @@ class WindSurfing_StatsView extends WatchUi.DataField {
  
     function initialize() {
         DataField.initialize();
-        mValue = "";
+        //mValue = "";
     }
 
     // Set your layout here. Anytime the size of obscurity of
@@ -91,6 +93,13 @@ class WindSurfing_StatsView extends WatchUi.DataField {
     
     
     function Geodetic_distance_rad(lat1, lon1, lat2, lon2) {
+    	if (lat1 == null){return 0;}
+    	if (lat2 == null){return 0;}
+    	if (lon1 == null){return 0;}
+    	if (lon2 == null){return 0;}
+    	
+    	if (lat1*lon1*lat2*lon2 == 0) { return 0; }
+    	
 		var dy = (lat2-lat1);
 		var dx = (lon2-lon1);
 
@@ -101,6 +110,10 @@ class WindSurfing_StatsView extends WatchUi.DataField {
 			sx *= sx;
 
 		var a = sy + Math.cos(lat1) * Math.cos(lat2) * sx;
+		
+		if (a==1) {
+			return 0; // devision by zero in a next statement
+		}
 		// you'll have to implement atan2
 		var c = 2 * Math.atan(Math.sqrt(a)/ Math.sqrt(1-a));
 
@@ -111,9 +124,11 @@ class WindSurfing_StatsView extends WatchUi.DataField {
     
     
     function compute(info) {
-		var lat, lon;
-		if ((info.currentLocation != null) && (info.currentLocation.toDegrees()[0].toFloat() < 179))
-		{
+		var lat, lon, latDegrees, lonDegrees; 
+		var curSpeed;
+		
+//		if ((info.currentLocation != null) && (info.currentLocation.toDegrees()[0].toFloat() < 179))
+//		{
 			
 			
 			
@@ -124,26 +139,46 @@ class WindSurfing_StatsView extends WatchUi.DataField {
 //			System.println("Insiderun: " + InsideRun);
 //			System.println("MinSpeedInAlphaRun: " + MinSpeedInAlphaRun);			
 //			System.println("currentSpeed: " + info.currentSpeed);
-			
-			lat = info.currentLocation.toRadians()[0].toFloat();
-			lon = info.currentLocation.toRadians()[1].toFloat();
+			if ((info.currentLocation != null) && (info.currentLocation.toDegrees()[0].toFloat() < 179))
+			{
+				lat = info.currentLocation.toRadians()[0].toFloat();
+				lon = info.currentLocation.toRadians()[1].toFloat();
+				latDegrees = info.currentLocation.toDegrees()[0].toFloat() ;
+				lonDegrees =  info.currentLocation.toDegrees()[1].toFloat() ;
+				curSpeed = info.currentSpeed;
+				
+			}
+			else
+			{
+				lat = 0;
+				lon = 0;
+				latDegrees = 0;
+				lonDegrees = 0;
+				curSpeed = 0;
+			}
+			if (curSpeed == null) {curSpeed = 0;}
 			/*
 			System.println("T," + ticker 
-									+ "," + info.currentLocation.toDegrees()[0].toFloat() 
-									+ "," + info.currentLocation.toDegrees()[1].toFloat() 
-									+ "," + info.currentSpeed
+									+ "," + latDegrees 
+									+ "," + lonDegrees
+									+ ",		" + info.currentSpeed * 3.6 // to kmh
 									+ "," + CurrentDist500 
 									+ "," + chkDist 
+									//+ "," + Lats.size()
+									//+"," + info.currentLocationAccuracy 
+									//+"," + i10
+									//+"," + j10
 						   );
-						   */
+				*/		   
 			
-		}
+/*		}
 		else {
  		    label = "No GPS signal";
- 			mValue = "v0.3 20200922";	
+ 			mValue = "v0.4 20210804";	
  			if (TurnCount > 0) {mValue = JibeCount.toString() + "/" + TurnCount.toString() + " jbs";}
 			return; 
 		} 
+*/
 
         if (timerRunning) {  ticker++;  }  else     { 	return; }
 
@@ -159,18 +194,39 @@ class WindSurfing_StatsView extends WatchUi.DataField {
 
 		/* for top5x10 */
  		i10 = (i10+1) % 11 ; j10 = (i10+1) % 11; 
- 		Lats10[i10] = lat; Lons10[i10] = lon; 
+ 		Lats10[i10] = lat; Lons10[i10] = lon; Ticker10[i10] = ticker;
 
-		if (Lats10[j10] !=null ) { //top5x10 analysis starts when we have more than 10 points
-			    var cur10;
-				 cur10 = 3.6 * Geodetic_distance_rad(Lats10[i10],Lons10[i10], Lats10[j10], Lons10[j10]) / 10 ;
+//		if (Lats10[j10] !=null ) { //top5x10 analysis starts when we have more than 10 points
+			    var cur10; 
+			    var tickerdiff=10000;
+			    
+			    if (Ticker10[j10] !=null){
+				 tickerdiff = Ticker10[i10]-Ticker10[j10];}
+				 
+				 cur10 = 3.6 * Geodetic_distance_rad(Lats10[i10],Lons10[i10], Lats10[j10], Lons10[j10]) / tickerdiff ;
 				 if (cur10>b10) {b10 = cur10;}
 				 
+				/*
+				 System.println("cur10 = " + cur10.format("%.0f") 
+				 			+ " b10 = " + b10.format("%.0f") 
+				 			+ " ticker = " + tickerdiff.format("%.0f")
+				 			+ " Inside10Run = " + Inside10Run.format("%.0f")
+				 			+ " Lat[i10] = " + Lats10[i10]
+				 			+ " Lon[i10] = " + Lons10[i10]
+				 			+ " Lat[j10] = " + Lats10[j10]
+				 			+ " Lon[j10] = " + Lons10[j10]
+				 );		
+				 */
 				if (Inside10Run == 0) { //run not started
-					if (info.currentSpeed > 5) {Inside10Run = 1;} //start run
-				}
+					if (curSpeed > 3) {Inside10Run = 1;} //start run
+					else {b10 = 0;
+						Lats10[0]=null;Lats10[1]=null;Lats10[2]=null;Lats10[3]=null;Lats10[4]=null;Lats10[5]=null;
+						Lats10[6]=null;Lats10[7]=null;Lats10[8]=null;Lats10[9]=null;Lats10[10]=null;
+					
+					} ///reset b10
+				}	 
 				else if(Inside10Run ==1) { //run started
-					if (info.currentSpeed <5) {
+					if ((curSpeed <3 ) || (curSpeed * 3.6 < b10 * 0.5) ){
 							Inside10Run = 0; //to slow, end run
 
 							if		(b10 > b101) { b105=b104;b104=b103;b103=b102;b102=b101;b101=b10; }
@@ -179,16 +235,18 @@ class WindSurfing_StatsView extends WatchUi.DataField {
 							else if (b10 > b104) { b105=b104;b104=b10; }
 							else if (b10 > b105) { b105=b10; } 
 							b10 = 0; ///reset b10
-					} ///info.currentSpeed < 5
+							Lats10[0]=null;Lats10[1]=null;Lats10[2]=null;Lats10[3]=null;Lats10[4]=null;Lats10[5]=null;
+							Lats10[6]=null;Lats10[7]=null;Lats10[8]=null;Lats10[9]=null;Lats10[10]=null;
+					} ///info.currentSpeed < 3
 				} //inside10Run ==1
-			}//(Lats10[j10] !=null){ 
+//			}//(Lats10[j10] !=null){ 
 
 
 		
 		/// start Alpha analysis
  		var dDist = 0; 
 	 	Lats.add(lat); Lons.add(lon); //for alphas
-	 	Speeds.add(info.currentSpeed);
+	 	Speeds.add(curSpeed);
 
  			
  			//Alpha analysis
@@ -204,6 +262,7 @@ class WindSurfing_StatsView extends WatchUi.DataField {
 			 	 (CurrentDist500 + dDist > 500) )
  			 {
 				CurrentDist500 -= Geodetic_distance_rad(Lats[0], Lons[0], Lats[1], Lons[1]);
+				if (CurrentDist500<0) {CurrentDist500 = 0;}
 				Lats = Lats.slice(1,null) ;
 				Lons = Lons.slice(1,null) ;
 				Speeds = Speeds.slice(1,null) ;
@@ -215,7 +274,7 @@ class WindSurfing_StatsView extends WatchUi.DataField {
 			//if (CurrentDist500 > 150) {InsideRun = 1;} //200 meters run, jibe is possible
 	
 			//finally, check distance between startpoint and endpoint
-			if (( CurrentDist500 > 200 ) && (chkDist < 55))
+			if (( CurrentDist500 > 200 ) && (chkDist < 55) && (chkDist) > 0 && (dDist > 0))
 				{ // 50 meters for jibe
 					MinSpeedInAlphaRun = 1000;
 					for( var k = 0; k< Speeds.size(); k++){  if (Speeds[k]<MinSpeedInAlphaRun) { MinSpeedInAlphaRun = Speeds[k];	} 	}
@@ -246,13 +305,14 @@ class WindSurfing_StatsView extends WatchUi.DataField {
 							Speeds = Speeds.slice(1,null) ;
 					}
 					
-					} ///got the jibe
+			} ///got the jibe
 
 			
 
 	////Set labels 		
  		if (timerSlot <= screenDelay - 1) {  // first time slot
- 		    label = "Top5x10 (run:" + b10.format("%.0f") + "):";
+ 		    label = "Top5x10";
+ 		    if(Inside10Run == 1) {label = label + " (run:" + b10.format("%.0f") + "):";}
             mValue = b101.format("%.0f") + " " + b102.format("%.0f") + " " + b103.format("%.0f") + " " + b104.format("%.0f") + " " + b105.format("%.0f") ;
         } else if (timerSlot <= 2 * screenDelay -1) {
             label = "Top5 @500:" ;
@@ -262,7 +322,7 @@ class WindSurfing_StatsView extends WatchUi.DataField {
             mValue = LastAlphaSpeed.format("%.2f") ;
         } else if (timerSlot  == 101) {
         	label = "No recs, curSpeed:";
-        	mValue = info.currentSpeed.format("%.2f");
+        	mValue = (curSpeed * 3.6).format("%.2f");
         }
         
         else {
