@@ -1,13 +1,16 @@
 using Toybox.WatchUi;
 using Toybox.Graphics;
+using Toybox.Application as App; 
 
 class WindSurfing_StatsView extends WatchUi.DataField {
 
-    hidden var mValue = "v0.7 20220506";	
+    hidden var mValue = "v0.8 20220506";	
     hidden var label = "No GPS signal";
     
 	hidden var timerRunning = false;   // did the user press the start button?
 
+	hidden var logger as Logger;
+	
     hidden var JibeCount = 0;
     hidden var TurnCount = 0;
     hidden var MinSpeedInAlphaRun = 100;
@@ -140,7 +143,12 @@ class WindSurfing_StatsView extends WatchUi.DataField {
     function compute(info) {
 		var lat, lon, latDegrees, lonDegrees; 
 		var curSpeed;
-		
+		var KnotsOrKMH = App.getApp().getProperty("Display_Knots_or_KMH");
+			//System.println("KnotsOrKMH: " + KnotsOrKMH);
+		var multiplier;
+		if (KnotsOrKMH ==1) {multiplier = 1;} else {multiplier = 0.539957;}
+		var ulabel;
+		if (KnotsOrKMH ==1) {ulabel = "km/h";} else {ulabel = "kts";}
 //		if ((info.currentLocation != null) && (info.currentLocation.toDegrees()[0].toDouble() < 179))
 //		{
 			
@@ -218,7 +226,7 @@ class WindSurfing_StatsView extends WatchUi.DataField {
 				 
 				 cur10 = 3.6 * Geodetic_distance_rad(Lats10[i10],Lons10[i10], Lats10[j10], Lons10[j10]) / tickerdiff ;
 				 if (cur10>b10) {b10 = cur10;}
-				 
+				
 				/*
 				 System.println("cur10 = " + cur10.format("%.0f") 
 				 			+ " b10 = " + b10.format("%.0f") 
@@ -331,18 +339,26 @@ class WindSurfing_StatsView extends WatchUi.DataField {
 
 	////Set labels 		
  		if (timerSlot <= screenDelay - 1) {  // first time slot
- 		    label = "Top5x10";
- 		    if(Inside10Run == 1) {label = label + " (run:" + b10.format("%.0f") + "):";}
-            mValue = b101.format("%.0f") + " " + b102.format("%.0f") + " " + b103.format("%.0f") + " " + b104.format("%.0f") + " " + b105.format("%.0f") ;
+ 		    label = "Top5x10, " + ulabel;
+ 		    if(Inside10Run == 1) {label = label + " (run:" + (b10 * multiplier).format("%.0f") + "):";}
+            mValue = (b101 * multiplier).format("%.0f") + " " 
+            		+ (b102 * multiplier).format("%.0f") + " " 
+            		+ (b103 * multiplier).format("%.0f") + " "
+            		+ (b104 * multiplier).format("%.0f") + " "
+            		+ (b105 * multiplier).format("%.0f") ;
         } else if (timerSlot <= 2 * screenDelay -1) {
-            label = "Top5 @500:" ;
-            mValue = ba1.format("%.0f") + " " + ba2.format("%.0f") + " " + ba3.format("%.0f") + " " + ba4.format("%.0f") + " " + ba5.format("%.0f") ;
+            label = "Top5 @500, " + ulabel + ":" ;
+            mValue = (ba1 * multiplier).format("%.0f") + " " 
+            		+ (ba2 * multiplier).format("%.0f") + " "
+            		+ (ba3 * multiplier).format("%.0f") + " " 
+            		+ (ba4 * multiplier).format("%.0f") + " " 
+            		+ (ba5 * multiplier).format("%.0f") ;
         } else if (timerSlot <= 3 * screenDelay -1) {
             label = JibeCount.toString() + "/" + TurnCount.toString() + " jbs, last @500:";
-            mValue = LastAlphaSpeed.format("%.2f") ;
+            mValue = (LastAlphaSpeed * multiplier).format("%.2f") ;
         } else if (timerSlot  == 101) {
-        	label = "No recs, curSpeed:";
-        	mValue = (curSpeed * 3.6).format("%.2f");
+        	label = "CurSpeed, " + ulabel + ":";
+        	mValue = (curSpeed * 3.6 * multiplier).format("%.2f");
         }
         
         else {

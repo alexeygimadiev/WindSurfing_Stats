@@ -1,0 +1,9 @@
+<settings>
+    <setting propertyKey="@Properties.Display_Knots_or_KMH" title="@Strings.Display_Knots_or_KMH">
+        <settingConfig type="list">
+         	
+            <listEntry value="0">@Strings.Knots</listEntry>
+        	<listEntry value="1">@Strings.Kmh</listEntry>
+        </settingConfig>
+    </setting>
+</settings>

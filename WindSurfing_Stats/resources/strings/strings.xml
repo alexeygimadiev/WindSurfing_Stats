@@ -2,4 +2,7 @@
     <string id="AppName">WindSurfing_Stats</string>
 
     <string id="label">My Value</string>
+    <string id = "Knots">Knots</string>
+    <string id = "Kmh">km&#47;h</string>
+    <string id = "Display_Knots_or_KMH">Display Knots or KMH</string>
 </strings>
