@@ -3,7 +3,7 @@ using Toybox.Graphics;
 
 class WindSurfing_StatsView extends WatchUi.DataField {
 
-    hidden var mValue = "v0.6 20211001";	
+    hidden var mValue = "v0.7 20220506";	
     hidden var label = "No GPS signal";
     
 	hidden var timerRunning = false;   // did the user press the start button?
@@ -126,10 +126,11 @@ class WindSurfing_StatsView extends WatchUi.DataField {
 		var c = 2 * Math.atan(Math.sqrt(a)/ Math.sqrt(1-a));
 
 		var R = 6371000.00; // radius of earth in meters
-		if (c > 0.05) {
+	/*	if (c > 0.05) {
 			System.println( "R * c = " + R * c);
 			System.println("lat1 = " + lat1 + ", lon1 = " + lon1 + ", lat2 = " + lat2 + ", lon2 = " + lon2);
 		}
+	*/
 		return R * c;
 		
 	}
@@ -218,7 +219,7 @@ class WindSurfing_StatsView extends WatchUi.DataField {
 				 cur10 = 3.6 * Geodetic_distance_rad(Lats10[i10],Lons10[i10], Lats10[j10], Lons10[j10]) / tickerdiff ;
 				 if (cur10>b10) {b10 = cur10;}
 				 
-				
+				/*
 				 System.println("cur10 = " + cur10.format("%.0f") 
 				 			+ " b10 = " + b10.format("%.0f") 
 				 			+ " ticker = " + ticker
@@ -231,7 +232,8 @@ class WindSurfing_StatsView extends WatchUi.DataField {
 				 			+ " Lons10[i10] = " + Lons10[i10]
 				 			+ " Lats10[j10] = " + Lats10[j10]
 				 			+ " Lons10[j10] = " + Lons10[j10]
-				 );		
+				 );	
+				 */	
 				
 				if (Inside10Run == 0) { //run not started
 					if (curSpeed > 3) {Inside10Run = 1;} //start run
@@ -277,7 +279,7 @@ class WindSurfing_StatsView extends WatchUi.DataField {
 			 ||
 			 	 (CurrentDist500 + dDist > 500) )
  			 {
- 			 	System.println("Lats.size() = " + Lats.size() + " Lons.size() = " + Lons.size() + " CurrentDist500 = " + CurrentDist500);
+ 			 	//System.println("Lats.size() = " + Lats.size() + " Lons.size() = " + Lons.size() + " CurrentDist500 = " + CurrentDist500);
 				CurrentDist500 -= Geodetic_distance_rad(Lats[0], Lons[0], Lats[1], Lons[1]);
 				
 				if (CurrentDist500<0) {CurrentDist500 = 0;}
