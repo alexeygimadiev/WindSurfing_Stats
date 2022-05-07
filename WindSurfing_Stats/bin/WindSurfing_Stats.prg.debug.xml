@@ -17,7 +17,7 @@
         <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsApp.mc" id="9" lineNum="14" pc="268435594" symbol="onStop"/>
         <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsApp.mc" id="10" lineNum="18" pc="268435599" symbol="getInitialView"/>
         <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsApp.mc" id="10" lineNum="19" pc="268435603" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsApp.mc" id="10" lineNum="3" pc="268442547" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsApp.mc" id="10" lineNum="3" pc="268442552" symbol="&lt;init&gt;"/>
         <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="12" lineNum="53" pc="268435641" symbol="initialize"/>
         <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="12" lineNum="54" pc="268435645" symbol="initialize"/>
         <entry filename="C:\\Users\\alexey.gimadiev\\git\\WindSurfing_Stats\\WindSurfing_Stats\\source\\WindSurfing_StatsView.mc" id="13" lineNum="60" pc="268435664" symbol="onLayout"/>
@@ -424,26 +424,26 @@
         <entry arg="true" endPc="268440511" name="dc" stackId="1" startPc="268440281"/>
         <entry endPc="268440562" name="activityMonitorInfo" stackId="1" startPc="268440527"/>
         <entry endPc="268441024" name="rez_cmp_local_text_value" stackId="6" startPc="268440611"/>
-        <entry endPc="268441024" name="rez_cmp_local_custom_drawable_19008371981897515738" stackId="4" startPc="268440611"/>
         <entry endPc="268441024" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268440611"/>
         <entry endPc="268441024" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268440611"/>
+        <entry endPc="268441024" name="rez_cmp_local_custom_drawable_42267216210737180061" stackId="4" startPc="268440611"/>
         <entry endPc="268441024" name="rez_cmp_local_text_label" stackId="5" startPc="268440611"/>
         <entry arg="true" endPc="268441025" name="dc" stackId="1" startPc="268440599"/>
         <entry endPc="268441364" name="rez_cmp_local_text_value" stackId="4" startPc="268441037"/>
+        <entry endPc="268441364" name="rez_cmp_local_custom_drawable_45398503036705029313" stackId="2" startPc="268441037"/>
         <entry endPc="268441364" name="rez_cmp_local_text_label" stackId="3" startPc="268441037"/>
-        <entry endPc="268441364" name="rez_cmp_local_custom_drawable_14068044312044008355" stackId="2" startPc="268441037"/>
         <entry arg="true" endPc="268441365" name="dc" stackId="1" startPc="268441025"/>
-        <entry endPc="268441704" name="rez_cmp_local_custom_drawable_57511515518536792261" stackId="2" startPc="268441377"/>
         <entry endPc="268441704" name="rez_cmp_local_text_value" stackId="4" startPc="268441377"/>
+        <entry endPc="268441704" name="rez_cmp_local_custom_drawable_76410915973374737823" stackId="2" startPc="268441377"/>
         <entry endPc="268441704" name="rez_cmp_local_text_label" stackId="3" startPc="268441377"/>
         <entry arg="true" endPc="268441705" name="dc" stackId="1" startPc="268441365"/>
         <entry endPc="268442044" name="rez_cmp_local_text_value" stackId="4" startPc="268441717"/>
-        <entry endPc="268442044" name="rez_cmp_local_custom_drawable_15656227585807999464" stackId="2" startPc="268441717"/>
+        <entry endPc="268442044" name="rez_cmp_local_custom_drawable_14156733501826275858" stackId="2" startPc="268441717"/>
         <entry endPc="268442044" name="rez_cmp_local_text_label" stackId="3" startPc="268441717"/>
         <entry arg="true" endPc="268442045" name="dc" stackId="1" startPc="268441705"/>
         <entry endPc="268442384" name="rez_cmp_local_text_value" stackId="4" startPc="268442057"/>
+        <entry endPc="268442384" name="rez_cmp_local_custom_drawable_70897177913914473551" stackId="2" startPc="268442057"/>
         <entry endPc="268442384" name="rez_cmp_local_text_label" stackId="3" startPc="268442057"/>
-        <entry endPc="268442384" name="rez_cmp_local_custom_drawable_79902705179636485337" stackId="2" startPc="268442057"/>
         <entry arg="true" endPc="268442385" name="dc" stackId="1" startPc="268442045"/>
     </localVars>
     <annotations>

@@ -4,7 +4,7 @@ using Toybox.Application as App;
 
 class WindSurfing_StatsView extends WatchUi.DataField {
 
-    hidden var mValue = "v0.8 20220506";	
+    hidden var mValue = "v0.8 20220507";	
     hidden var label = "No GPS signal";
     
 	hidden var timerRunning = false;   // did the user press the start button?
